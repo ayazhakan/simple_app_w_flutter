@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "144044827970",
+    "firebase_url": "https://flutter-akademi-69ddc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-akademi-69ddc",
+    "storage_bucket": "flutter-akademi-69ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144044827970:android:71f49cb37bb3c56aa9d4db",
+        "android_client_info": {
+          "package_name": "com.a.b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144044827970-2c2dto2g28bc47qcjqu38egovt6feh5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a.b",
+            "certificate_hash": "8a2bdfd40aebc98dcdd0370e12068e13d9ea0ad9"
+          }
+        },
+        {
+          "client_id": "144044827970-7onf2jd074eqk51nb6vip19076f56nsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaOTDGkPAjgB7i4Dw0fbU3ES9BrXiEhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144044827970-7onf2jd074eqk51nb6vip19076f56nsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144044827970-g2puctrefltj28cfcp5pks4784t7opmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.a.b"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144044827970:android:e16f45a524d2ba32a9d4db",
+        "android_client_info": {
+          "package_name": "com.example.simple_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144044827970-r6f1rncmvg6vjoinaabsnfe7ul5hc409.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simple_application",
+            "certificate_hash": "8a2bdfd40aebc98dcdd0370e12068e13d9ea0ad9"
+          }
+        },
+        {
+          "client_id": "144044827970-7onf2jd074eqk51nb6vip19076f56nsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaOTDGkPAjgB7i4Dw0fbU3ES9BrXiEhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144044827970-7onf2jd074eqk51nb6vip19076f56nsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144044827970-g2puctrefltj28cfcp5pks4784t7opmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.a.b"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
